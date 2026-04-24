@@ -1,0 +1,115 @@
+2026-04-14 20:24:12,006 - INFO - --- Pipeline Execution Started ---
+2026-04-14 20:24:12,029 - INFO - Starting data extraction...
+2026-04-14 20:24:12,054 - INFO - Removed 1 duplicate transactions.
+2026-04-14 20:24:12,057 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-14 20:24:12,058 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-14 20:24:12,058 - INFO - Starting data transformation and fine calculation...
+2026-04-14 20:24:12,061 - INFO - Data transformation complete.
+2026-04-14 20:24:12,061 - INFO - Loading data into SQLite database...
+2026-04-14 20:24:12,069 - INFO - Loaded 4 new transactions. Updated 3 user accounts.
+2026-04-14 20:24:12,077 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-14 21:24:40,051 - INFO - --- Pipeline Execution Started ---
+2026-04-14 21:24:40,053 - INFO - Starting data extraction...
+2026-04-14 21:24:40,056 - INFO - Removed 1 duplicate transactions.
+2026-04-14 21:24:40,060 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-14 21:24:40,060 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-14 21:24:40,060 - INFO - Starting data transformation and fine calculation...
+2026-04-14 21:24:40,062 - INFO - Data transformation complete.
+2026-04-14 21:24:40,062 - INFO - Loading data into SQLite database...
+2026-04-14 21:24:40,062 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-14 21:24:40,067 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-15 11:27:32,543 - INFO - --- Pipeline Execution Started ---
+2026-04-15 11:27:32,550 - INFO - Starting data extraction...
+2026-04-15 11:27:32,569 - INFO - Removed 1 duplicate transactions.
+2026-04-15 11:27:32,574 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-15 11:27:32,576 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-15 11:27:32,576 - INFO - Starting data transformation and fine calculation...
+2026-04-15 11:27:32,580 - INFO - Data transformation complete.
+2026-04-15 11:27:32,580 - INFO - Loading data into SQLite database...
+2026-04-15 11:27:32,580 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-15 11:27:32,601 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-15 22:38:48,924 - INFO - --- Pipeline Execution Started ---
+2026-04-15 22:38:48,925 - INFO - Starting data extraction...
+2026-04-15 22:38:48,943 - INFO - Removed 1 duplicate transactions.
+2026-04-15 22:38:48,948 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-15 22:38:48,949 - INFO - Starting data transformation...
+2026-04-15 22:38:48,952 - INFO - Loading data into database (Bulk Insert)...
+2026-04-15 22:38:48,963 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-15 22:39:19,974 - INFO - --- Pipeline Execution Started ---
+2026-04-15 22:39:19,975 - INFO - Starting data extraction...
+2026-04-15 22:39:19,978 - INFO - Removed 1 duplicate transactions.
+2026-04-15 22:39:19,981 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-15 22:39:19,981 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-15 22:39:19,981 - INFO - Starting data transformation and fine calculation...
+2026-04-15 22:39:19,983 - INFO - Data transformation complete.
+2026-04-15 22:39:19,983 - INFO - Loading data into SQLite database...
+2026-04-15 22:39:19,984 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-15 22:39:19,990 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-17 09:25:48,063 - INFO - --- Pipeline Execution Started ---
+2026-04-17 09:25:48,079 - INFO - Starting data extraction...
+2026-04-17 09:25:48,095 - INFO - Removed 1 duplicate transactions.
+2026-04-17 09:25:48,095 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-17 09:25:48,095 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-17 09:25:48,095 - INFO - Starting data transformation and fine calculation...
+2026-04-17 09:25:48,095 - INFO - Data transformation complete.
+2026-04-17 09:25:48,095 - INFO - Loading data into SQLite database...
+2026-04-17 09:25:48,095 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-17 09:25:48,116 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-17 09:41:01,173 - INFO - --- Pipeline Execution Started ---
+2026-04-17 09:41:01,173 - INFO - Starting data extraction...
+2026-04-17 09:41:01,176 - INFO - Removed 1 duplicate transactions.
+2026-04-17 09:41:01,178 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-17 09:41:01,179 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-17 09:41:01,179 - INFO - Starting data transformation and fine calculation...
+2026-04-17 09:41:01,181 - INFO - Data transformation complete.
+2026-04-17 09:41:01,181 - INFO - Loading data into SQLite database...
+2026-04-17 09:41:01,181 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-17 09:41:01,190 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-17 09:50:02,279 - INFO - --- Pipeline Execution Started ---
+2026-04-17 09:50:02,281 - INFO - Starting data extraction...
+2026-04-17 09:50:02,299 - INFO - Removed 1 duplicate transactions.
+2026-04-17 09:50:02,304 - WARNING - Found 1 records with IssueDate > DueDate. Dropping them.
+2026-04-17 09:50:02,304 - INFO - Data extraction and validation complete. 4 records ready for processing.
+2026-04-17 09:50:02,304 - INFO - Starting data transformation and fine calculation...
+2026-04-17 09:50:02,307 - INFO - Data transformation complete.
+2026-04-17 09:50:02,307 - INFO - Loading data into SQLite database...
+2026-04-17 09:50:02,307 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-17 09:50:02,316 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-17 10:04:22,350 - INFO - --- Pipeline Execution Started ---
+2026-04-17 10:04:22,351 - INFO - Starting data extraction...
+2026-04-17 10:04:22,354 - INFO - Removed 0 duplicate transactions.
+2026-04-17 10:04:22,396 - INFO - Data extraction and validation complete. 524 records ready for processing.
+2026-04-17 10:04:22,396 - INFO - Starting data transformation and fine calculation...
+2026-04-17 10:04:22,430 - INFO - Data transformation complete.
+2026-04-17 10:04:22,430 - INFO - Loading data into SQLite database...
+2026-04-17 10:04:22,462 - INFO - Loaded 524 new transactions. Updated 200 user accounts.
+2026-04-17 10:04:22,469 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-17 10:11:51,310 - INFO - --- Pipeline Execution Started ---
+2026-04-17 10:11:51,312 - INFO - Starting data extraction...
+2026-04-17 10:11:51,316 - INFO - Removed 0 duplicate transactions.
+2026-04-17 10:11:51,323 - INFO - Data extraction and validation complete. 524 records ready for processing.
+2026-04-17 10:11:51,323 - INFO - Starting data transformation and fine calculation...
+2026-04-17 10:11:51,372 - INFO - Data transformation complete.
+2026-04-17 10:11:51,372 - INFO - Loading data into SQLite database...
+2026-04-17 10:11:51,393 - INFO - Loaded 0 new transactions. Updated 0 user accounts.
+2026-04-17 10:11:51,405 - INFO - --- Pipeline Execution Finished ---
+
+2026-04-24 15:43:47,258 - INFO - --- Pipeline Execution Started ---
+2026-04-24 15:43:47,290 - INFO - Starting data extraction...
+2026-04-24 15:43:47,322 - INFO - Removed 0 duplicate transactions.
+2026-04-24 15:43:47,329 - INFO - Data extraction and validation complete. 524 records ready for processing.
+2026-04-24 15:43:47,329 - INFO - Starting data transformation and fine calculation...
+2026-04-24 15:43:59,384 - INFO - --- Pipeline Execution Started ---
+2026-04-24 15:43:59,386 - INFO - Starting data extraction...
+2026-04-24 15:43:59,397 - INFO - Removed 0 duplicate transactions.
+2026-04-24 15:43:59,410 - INFO - Data extraction and validation complete. 524 records ready for processing.
+2026-04-24 15:43:59,410 - INFO - Starting data transformation and fine calculation...
